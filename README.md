@@ -1,9 +1,9 @@
 <h1>
-<img src="../GoFinances-backend/src/assets/logogit.png">
+<img src="https://github.com/EvertonAlmeida/GoFinances-backend/blob/master/src/assets/logoGit.png">
 <h1>
 
 <h1>
-<img src="../GoFinances-backend/src/assets/gofinances.gif">
+<img src="https://github.com/EvertonAlmeida/GoFinances-backend/blob/master/src/assets/gofinances.gif">
 <h1>
 
 # Go Finances
@@ -75,4 +75,4 @@ Desenvolvido por **Everton Almeida**
 
 ## License
 
-Este projeto está licenciado sob a licença MIT - consulte o[LICENSE.md](LICENSE.md) arquivo para detalhes
+Este projeto está licenciado sob a licença MIT - consulte o [LICENSE.md](LICENSE.md) arquivo para detalhes
