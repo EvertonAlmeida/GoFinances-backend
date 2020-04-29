@@ -1,12 +1,9 @@
-<h1>
-<img src="https://github.com/EvertonAlmeida/GoFinances-backend/blob/master/src/assets/logoGit.png">
-<h1>
+
+# Go Finances
 
 <h1>
 <img src="https://github.com/EvertonAlmeida/GoFinances-backend/blob/master/src/assets/gofinances.gif">
 <h1>
-
-# Go Finances
 
 O projeto **Go Finances** foi criado dentro do **Bootcamp Gostack** e tem como objetivo gerenciar entradas e saídas financeiras por categoria possibilitando a importação por CSV.
 
